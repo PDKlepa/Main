@@ -18,4 +18,4 @@ Polish (Fluent)
 As a student passionate about computer science, I bring a strong foundation in software engineering principles, data structures, and algorithms. Specializing in Artificial Intelligence, I thrive on turning theoretical knowledge into practical solutions. Experienced in developing web applications, implementing machine learning algorithms, and much more.
 
 🚀 University Projects Repository:
-Explore my diverse collection of university projects, ranging from web development to AI implementations and database management. In the University Projects Repository
+Explore my diverse collection of university projects, ranging from web development to AI implementations and database management.  [University Projects Repository](https://github.com/PDKlepa/University-Projects)
