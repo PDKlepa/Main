@@ -6,8 +6,8 @@ BSc Computer Science (Artificial Intelligence) at Cardiff Metropolitan Universit
 
 🔧 Skills:
 
-Languages: Python, Java, PHP, React, HTML, CSS, JavaScript
-Tools: MS Office
+Programming languages: Python, Java, PHP, React, HTML, CSS, JavaScript
+
 🌐 Languages:
 
 English (Native Level)
