@@ -2,11 +2,12 @@ Hi there, I'm Dawid Klepuszewski! 👋
 
 🎓 Education:
 
-BSc Computer Science (Artificial Intelligence) at Cardiff Metropolitan University, 2022 - 2026
+BSc Computer Science (Artificial Intelligence) at Cardiff Metropolitan University, 2022 - 2025
 
 🔧 Skills:
 
-Programming languages: Python, Java, PHP, React, HTML, CSS, JavaScript
+Programming languages: Python, React, HTML, CSS, JavaScript
+
 
 🌐 Languages:
 
@@ -15,7 +16,4 @@ Polish (Fluent)
 
 📝 Summary:
 
-As a student passionate about computer science, I bring a strong foundation in software engineering principles, data structures, and algorithms. Specializing in Artificial Intelligence, I thrive on turning theoretical knowledge into practical solutions. Experienced in developing web applications, implementing machine learning algorithms, and much more.
 
-🚀 University Projects Repository:
----
